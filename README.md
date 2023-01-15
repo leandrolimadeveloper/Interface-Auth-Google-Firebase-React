@@ -11,12 +11,3 @@ React<br>
 Firebase
 
 HTML5, CSS3, TypeScript, Sass
-
-## Experiência adquirida
-Principais conhecimentos reforçados ou aprendidos:<br>
-HTML5, CSS3, JS/TypeScript, React, Firebase<br>
-
-Sass<br>
-Vite<br> 
-
-Photosphor - Biblioteca de ícones<br>
